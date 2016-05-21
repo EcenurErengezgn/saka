@@ -1,0 +1,7 @@
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\bin\Debug\saka.busssiness.dll
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\bin\Debug\saka.busssiness.pdb
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\bin\Debug\saka.dto.dll
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\bin\Debug\saka.dto.pdb
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\obj\Debug\saka.busssiness.csprojResolveAssemblyReference.cache
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\obj\Debug\saka.busssiness.dll
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.busssiness\obj\Debug\saka.busssiness.pdb

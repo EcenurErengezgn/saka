@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,9 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IKPIService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\saka.busssiness\saka.busssiness.csproj">
+      <Project>{ab233ce1-b7d9-48f7-a9ab-41a62a89ce21}</Project>
+      <Name>saka.busssiness</Name>
+    </ProjectReference>
     <ProjectReference Include="..\saka.dto\saka.dto.csproj">
       <Project>{23533f0a-2cf9-43ef-a1a6-bfe9eb85f877}</Project>
       <Name>saka.dto</Name>

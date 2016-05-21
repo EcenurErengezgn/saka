@@ -1,0 +1,5 @@
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.dto\bin\Debug\saka.dto.dll
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.dto\bin\Debug\saka.dto.pdb
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.dto\obj\Debug\saka.dto.csprojResolveAssemblyReference.cache
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.dto\obj\Debug\saka.dto.dll
+C:\Users\ecenur\Documents\Visual Studio 2015\Projects\saka\saka.dto\obj\Debug\saka.dto.pdb
